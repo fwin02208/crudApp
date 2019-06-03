@@ -1,0 +1,40 @@
+{
+    "data":[
+    {
+        "firstName":"Snigdha",
+        "lastName":"shah",
+        "address":"pune",
+        "bloodGroup":"A+ve"
+    },
+    {
+        "firstName":"sachin",
+        "lastName":"doshi",
+        "address":"pune",
+        "bloodGroup":"AB+ve"
+    },
+    {
+        "firstName":"archana",
+        "lastName":"parekh",
+        "address":"pune",
+        "bloodGroup":"A+ve"
+    },
+    {
+        "firstName":"pratiksha",
+        "lastName":"gandhi",
+        "address":"pune",
+        "bloodGroup":"O+ve"
+    },
+    {
+        "firstName":"shital",
+        "lastName":"doshi",
+        "address":"pune",
+        "bloodGroup":"B+ve"
+    },
+    {
+        "firstName":"ravindra",
+        "lastName":"parekh",
+        "address":"pune",
+        "bloodGroup":"A+ve"
+    }
+]
+}
